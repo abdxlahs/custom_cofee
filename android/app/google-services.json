@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "65222640835",
+    "project_id": "cofee-maker",
+    "storage_bucket": "cofee-maker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65222640835:android:fb93dcbc1a43bfdf468e76",
+        "android_client_info": {
+          "package_name": "com.Abdx.custom_cofee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65222640835-at28k6ekn9g4ao9bo3qvj82gsve5mpgm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8DYdGA7Y7ZB6_05SWg5b5_ciUlmUNmUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65222640835-at28k6ekn9g4ao9bo3qvj82gsve5mpgm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
