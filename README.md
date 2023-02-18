@@ -3,7 +3,7 @@ This is a complete ordering coffee app built using Flutter. The app provides the
 
 ## Features
 * Customize coffee orders with different options (e.g. size, milk type, sugar level)
-* Place  orders
+* Set Your Cofee Preferences
 * Secure authentication system using Firebase Authentication
 * Backend database using Firebase Firestore
 ## Getting Started
