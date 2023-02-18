@@ -10,7 +10,7 @@ This is a complete ordering coffee app built using Flutter. The app provides the
 To get started with this app, you will need to have Flutter installed on your machine, as well as a Firebase project with Firestore and Authentication enabled. Once you have Flutter and Firebase set up, you can clone this repository and run the app on an emulator or physical device.
 
 ```shell
-Copy code
+
 $ git clone https://github.com/abdxlahs/custom_cofee.git
 $ cd ordering-coffee-app
 $ flutter run
